@@ -1,0 +1,29 @@
+{
+  "name": "antd-forms",
+  "description": "Antd 表单组件封装",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "umi build",
+    "start": "umi dev"
+  },
+  "dependencies": {
+    "ant-design-pro": "^2.1.1",
+    "antd": "^3.10.9",
+    "classnames": "^2.2.6",
+    "dva": "^2.4.0",
+    "lodash": "^4.17.10",
+    "lodash-decorators": "^6.0.0",
+    "memoize-one": "^4.0.0",
+    "moment": "^2.22.2",
+    "path-to-regexp": "^2.4.0",
+    "prop-types": "^15.5.10",
+    "rc-animate": "^2.4.4",
+    "react": "^16.6.3",
+    "react-container-query": "^0.11.0",
+    "react-document-title": "^2.0.3",
+    "react-dom": "^16.7.0",
+    "react-media": "^1.8.0",
+    "umi-request": "^1.0.0"
+  },
+  "keywords": ["antd", "form", "react"]
+}
